@@ -1,0 +1,5 @@
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Arithmeticsoperators fromselflearning\obj\Debug\net5.0\Arithmeticsoperators fromselflearning.csproj.AssemblyReference.cache
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Arithmeticsoperators fromselflearning\obj\Debug\net5.0\Arithmeticsoperators fromselflearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Arithmeticsoperators fromselflearning\obj\Debug\net5.0\Arithmeticsoperators fromselflearning.AssemblyInfoInputs.cache
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Arithmeticsoperators fromselflearning\obj\Debug\net5.0\Arithmeticsoperators fromselflearning.AssemblyInfo.cs
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Arithmeticsoperators fromselflearning\obj\Debug\net5.0\Arithmeticsoperators fromselflearning.csproj.CoreCompileInputs.cache
