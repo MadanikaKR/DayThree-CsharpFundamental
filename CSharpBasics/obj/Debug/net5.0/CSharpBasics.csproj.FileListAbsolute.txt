@@ -1,3 +1,7 @@
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharpBasics\obj\Debug\net5.0\CSharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharpBasics\obj\Debug\net5.0\CSharpBasics.AssemblyInfoInputs.cache
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharpBasics\obj\Debug\net5.0\CSharpBasics.AssemblyInfo.cs
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharpBasics\obj\Debug\net5.0\CSharpBasics.csproj.CoreCompileInputs.cache
 C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharpBasics\bin\Debug\net5.0\CSharpBasics.exe
 C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharpBasics\bin\Debug\net5.0\CSharpBasics.deps.json
 C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharpBasics\bin\Debug\net5.0\CSharpBasics.runtimeconfig.json
@@ -5,11 +9,6 @@ C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\C
 C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharpBasics\bin\Debug\net5.0\CSharpBasics.dll
 C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharpBasics\bin\Debug\net5.0\ref\CSharpBasics.dll
 C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharpBasics\bin\Debug\net5.0\CSharpBasics.pdb
-C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharpBasics\obj\Debug\net5.0\CSharpBasics.csproj.AssemblyReference.cache
-C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharpBasics\obj\Debug\net5.0\CSharpBasics.GeneratedMSBuildEditorConfig.editorconfig
-C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharpBasics\obj\Debug\net5.0\CSharpBasics.AssemblyInfoInputs.cache
-C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharpBasics\obj\Debug\net5.0\CSharpBasics.AssemblyInfo.cs
-C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharpBasics\obj\Debug\net5.0\CSharpBasics.csproj.CoreCompileInputs.cache
 C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharpBasics\obj\Debug\net5.0\CSharpBasics.dll
 C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharpBasics\obj\Debug\net5.0\ref\CSharpBasics.dll
 C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharpBasics\obj\Debug\net5.0\CSharpBasics.pdb

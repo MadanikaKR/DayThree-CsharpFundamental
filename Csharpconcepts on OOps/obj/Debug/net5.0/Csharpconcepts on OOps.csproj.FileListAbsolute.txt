@@ -1,0 +1,16 @@
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Csharpconcepts on OOps\bin\Debug\net5.0\Csharpconcepts on OOps.exe
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Csharpconcepts on OOps\bin\Debug\net5.0\Csharpconcepts on OOps.deps.json
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Csharpconcepts on OOps\bin\Debug\net5.0\Csharpconcepts on OOps.runtimeconfig.json
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Csharpconcepts on OOps\bin\Debug\net5.0\Csharpconcepts on OOps.runtimeconfig.dev.json
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Csharpconcepts on OOps\bin\Debug\net5.0\Csharpconcepts on OOps.dll
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Csharpconcepts on OOps\bin\Debug\net5.0\ref\Csharpconcepts on OOps.dll
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Csharpconcepts on OOps\bin\Debug\net5.0\Csharpconcepts on OOps.pdb
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Csharpconcepts on OOps\obj\Debug\net5.0\Csharpconcepts on OOps.csproj.AssemblyReference.cache
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Csharpconcepts on OOps\obj\Debug\net5.0\Csharpconcepts on OOps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Csharpconcepts on OOps\obj\Debug\net5.0\Csharpconcepts on OOps.AssemblyInfoInputs.cache
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Csharpconcepts on OOps\obj\Debug\net5.0\Csharpconcepts on OOps.AssemblyInfo.cs
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Csharpconcepts on OOps\obj\Debug\net5.0\Csharpconcepts on OOps.csproj.CoreCompileInputs.cache
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Csharpconcepts on OOps\obj\Debug\net5.0\Csharpconcepts on OOps.dll
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Csharpconcepts on OOps\obj\Debug\net5.0\ref\Csharpconcepts on OOps.dll
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Csharpconcepts on OOps\obj\Debug\net5.0\Csharpconcepts on OOps.pdb
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Csharpconcepts on OOps\obj\Debug\net5.0\Csharpconcepts on OOps.genruntimeconfig.cache

@@ -3,3 +3,14 @@ C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\A
 C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Arithmeticsoperators fromselflearning\obj\Debug\net5.0\Arithmeticsoperators fromselflearning.AssemblyInfoInputs.cache
 C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Arithmeticsoperators fromselflearning\obj\Debug\net5.0\Arithmeticsoperators fromselflearning.AssemblyInfo.cs
 C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Arithmeticsoperators fromselflearning\obj\Debug\net5.0\Arithmeticsoperators fromselflearning.csproj.CoreCompileInputs.cache
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Arithmeticsoperators fromselflearning\bin\Debug\net5.0\Arithmeticsoperators fromselflearning.exe
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Arithmeticsoperators fromselflearning\bin\Debug\net5.0\Arithmeticsoperators fromselflearning.deps.json
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Arithmeticsoperators fromselflearning\bin\Debug\net5.0\Arithmeticsoperators fromselflearning.runtimeconfig.json
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Arithmeticsoperators fromselflearning\bin\Debug\net5.0\Arithmeticsoperators fromselflearning.runtimeconfig.dev.json
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Arithmeticsoperators fromselflearning\bin\Debug\net5.0\Arithmeticsoperators fromselflearning.dll
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Arithmeticsoperators fromselflearning\bin\Debug\net5.0\ref\Arithmeticsoperators fromselflearning.dll
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Arithmeticsoperators fromselflearning\bin\Debug\net5.0\Arithmeticsoperators fromselflearning.pdb
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Arithmeticsoperators fromselflearning\obj\Debug\net5.0\Arithmeticsoperators fromselflearning.dll
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Arithmeticsoperators fromselflearning\obj\Debug\net5.0\ref\Arithmeticsoperators fromselflearning.dll
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Arithmeticsoperators fromselflearning\obj\Debug\net5.0\Arithmeticsoperators fromselflearning.pdb
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Arithmeticsoperators fromselflearning\obj\Debug\net5.0\Arithmeticsoperators fromselflearning.genruntimeconfig.cache

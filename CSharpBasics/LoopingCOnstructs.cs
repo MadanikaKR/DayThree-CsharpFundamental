@@ -21,55 +21,55 @@ namespace CSharpBasics
 
 
         //    }
-//************************************************************************************
+        //************************************************************************************
 
         //input from user
         //static void Main(string[] args)
         //{
-            //bool iNeedmorecandles = true;
-            //int candleCount = 0;
+        //bool iNeedmorecandles = true;
+        //int candleCount = 0;
 
-            //while (iNeedmorecandles)
-            //{
-            //    Console.WriteLine("do you need one more candle? (Y/N)");
-            //    string answer = Console.ReadLine();
+        //while (iNeedmorecandles)
+        //{
+        //    Console.WriteLine("do you need one more candle? (Y/N)");
+        //    string answer = Console.ReadLine();
 
-            //    if (answer == "Y")
+        //    if (answer == "Y")
 
-            //    {
-            //        candleCount++;
+        //    {
+        //        candleCount++;
 
-            //    }
-            //    else
-            //    {
-            //        iNeedmorecandles = false;
-            //    }
-            //}
-            //Console.WriteLine("candles needed : {0}", candleCount);
-            //Console.ReadLine();
-
-            //for (int i = 0; i < 5; i++)
-            //{
-            //    Console.WriteLine("print");
-            //    i++;
-            //}
-////***************************************************
-//            string answer;
-//            int candlecount = 0;
-//            do
-//            {
-//                candlecount++;
-//                Console.WriteLine("more?");
-//                answer = Console.ReadLine();
-//            } while (answer == "yes");
-//            Console.WriteLine(candlecount);
-//            Console.ReadLine();
-        
+        //    }
+        //    else
+        //    {
+        //        iNeedmorecandles = false;
+        //    }
         //}
-//********************************
-//Arrays using for loop
+        //Console.WriteLine("candles needed : {0}", candleCount);
+        //Console.ReadLine();
 
-        static void Main (string[] args)
+        //for (int i = 0; i < 5; i++)
+        //{
+        //    Console.WriteLine("print");
+        //    i++;
+        //}
+        ////***************************************************
+        //            string answer;
+        //            int candlecount = 0;
+        //            do
+        //            {
+        //                candlecount++;
+        //                Console.WriteLine("more?");
+        //                answer = Console.ReadLine();
+        //            } while (answer == "yes");
+        //            Console.WriteLine(candlecount);
+        //            Console.ReadLine();
+
+        //}
+        //********************************
+        //Arrays using for loop
+
+        static void Main(string[] args)
         {
             string[] pets = { "dog", "bird", "cats" };
             //for (int i = 0; i < pets.Length; i++)
@@ -83,7 +83,7 @@ namespace CSharpBasics
             }
         }
 
-   
+
 
     }
 }
