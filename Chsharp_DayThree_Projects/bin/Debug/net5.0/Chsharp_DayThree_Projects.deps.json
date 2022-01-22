@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Chsharp_DayThree_Projects/1.0.0": {
+        "dependencies": {
+          "CSharp_DayThree_Results": "1.0.0"
+        },
+        "runtime": {
+          "Chsharp_DayThree_Projects.dll": {}
+        }
+      },
+      "CSharp_DayThree_MarksLibrary/1.0.0": {
+        "dependencies": {
+          "CSharp_DayThree_StudentLibrary": "1.0.0"
+        },
+        "runtime": {
+          "CSharp_DayThree_MarksLibrary.dll": {}
+        }
+      },
+      "CSharp_DayThree_Results/1.0.0": {
+        "dependencies": {
+          "CSharp_DayThree_SportLibrary": "1.0.0"
+        },
+        "runtime": {
+          "CSharp_DayThree_Results.dll": {}
+        }
+      },
+      "CSharp_DayThree_SportLibrary/1.0.0": {
+        "dependencies": {
+          "CSharp_DayThree_MarksLibrary": "1.0.0"
+        },
+        "runtime": {
+          "CSharp_DayThree_SportLibrary.dll": {}
+        }
+      },
+      "CSharp_DayThree_StudentLibrary/1.0.0": {
+        "runtime": {
+          "CSharp_DayThree_StudentLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chsharp_DayThree_Projects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSharp_DayThree_MarksLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSharp_DayThree_Results/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSharp_DayThree_SportLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSharp_DayThree_StudentLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

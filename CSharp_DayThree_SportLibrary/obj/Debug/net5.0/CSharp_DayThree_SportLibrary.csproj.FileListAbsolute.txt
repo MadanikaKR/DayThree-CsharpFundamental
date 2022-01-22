@@ -1,0 +1,17 @@
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_SportLibrary\obj\Debug\net5.0\CSharp_DayThree_SportLibrary.csproj.AssemblyReference.cache
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_SportLibrary\obj\Debug\net5.0\CSharp_DayThree_SportLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_SportLibrary\obj\Debug\net5.0\CSharp_DayThree_SportLibrary.AssemblyInfoInputs.cache
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_SportLibrary\obj\Debug\net5.0\CSharp_DayThree_SportLibrary.AssemblyInfo.cs
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_SportLibrary\obj\Debug\net5.0\CSharp_DayThree_SportLibrary.csproj.CoreCompileInputs.cache
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_SportLibrary\bin\Debug\net5.0\CSharp_DayThree_SportLibrary.deps.json
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_SportLibrary\bin\Debug\net5.0\CSharp_DayThree_SportLibrary.dll
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_SportLibrary\bin\Debug\net5.0\ref\CSharp_DayThree_SportLibrary.dll
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_SportLibrary\bin\Debug\net5.0\CSharp_DayThree_SportLibrary.pdb
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_SportLibrary\bin\Debug\net5.0\CSharp_DayThree_MarksLibrary.dll
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_SportLibrary\bin\Debug\net5.0\CSharp_DayThree_StudentLibrary.dll
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_SportLibrary\bin\Debug\net5.0\CSharp_DayThree_MarksLibrary.pdb
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_SportLibrary\bin\Debug\net5.0\CSharp_DayThree_StudentLibrary.pdb
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_SportLibrary\obj\Debug\net5.0\CSharp_DayThree_SportLibrary.csproj.CopyComplete
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_SportLibrary\obj\Debug\net5.0\CSharp_DayThree_SportLibrary.dll
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_SportLibrary\obj\Debug\net5.0\ref\CSharp_DayThree_SportLibrary.dll
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_SportLibrary\obj\Debug\net5.0\CSharp_DayThree_SportLibrary.pdb

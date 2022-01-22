@@ -17,3 +17,29 @@
 //        }
 //    }
 //}
+
+
+
+
+////**********************************************
+//namespace EnumsDemo
+//{
+//    enum Directions
+//    {
+//        east,
+//        west,
+//        north,
+//        south
+
+//    }
+//    class Program
+//    {
+//        static void Main (string[] args)
+//        {
+//            int value = (int)Directions.north;
+//            System.Console.WriteLine(value);
+//            Directions dire; 
+//            Enum.TryParse("West", out dire);
+//        }
+//    }
+//}

@@ -1,0 +1,11 @@
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_StudentLibrary\bin\Debug\net5.0\CSharp_DayThree_StudentLibrary.deps.json
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_StudentLibrary\bin\Debug\net5.0\CSharp_DayThree_StudentLibrary.dll
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_StudentLibrary\bin\Debug\net5.0\ref\CSharp_DayThree_StudentLibrary.dll
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_StudentLibrary\bin\Debug\net5.0\CSharp_DayThree_StudentLibrary.pdb
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_StudentLibrary\obj\Debug\net5.0\CSharp_DayThree_StudentLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_StudentLibrary\obj\Debug\net5.0\CSharp_DayThree_StudentLibrary.AssemblyInfoInputs.cache
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_StudentLibrary\obj\Debug\net5.0\CSharp_DayThree_StudentLibrary.AssemblyInfo.cs
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_StudentLibrary\obj\Debug\net5.0\CSharp_DayThree_StudentLibrary.csproj.CoreCompileInputs.cache
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_StudentLibrary\obj\Debug\net5.0\CSharp_DayThree_StudentLibrary.dll
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_StudentLibrary\obj\Debug\net5.0\ref\CSharp_DayThree_StudentLibrary.dll
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_StudentLibrary\obj\Debug\net5.0\CSharp_DayThree_StudentLibrary.pdb

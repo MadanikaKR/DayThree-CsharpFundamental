@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Csharpconcepts constructors and class_object/1.0.0": {
+        "runtime": {
+          "Csharpconcepts constructors and class_object.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Csharpconcepts constructors and class_object/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

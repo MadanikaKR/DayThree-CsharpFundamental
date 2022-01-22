@@ -5,7 +5,6 @@ C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\C
 C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Csharp_intermediate\bin\Debug\net5.0\Csharp_intermediate.dll
 C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Csharp_intermediate\bin\Debug\net5.0\ref\Csharp_intermediate.dll
 C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Csharp_intermediate\bin\Debug\net5.0\Csharp_intermediate.pdb
-C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Csharp_intermediate\obj\Debug\net5.0\Csharp_intermediate.csproj.AssemblyReference.cache
 C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Csharp_intermediate\obj\Debug\net5.0\Csharp_intermediate.GeneratedMSBuildEditorConfig.editorconfig
 C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Csharp_intermediate\obj\Debug\net5.0\Csharp_intermediate.AssemblyInfoInputs.cache
 C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\Csharp_intermediate\obj\Debug\net5.0\Csharp_intermediate.AssemblyInfo.cs

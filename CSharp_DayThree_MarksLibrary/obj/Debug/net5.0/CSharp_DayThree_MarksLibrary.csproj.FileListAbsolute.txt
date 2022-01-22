@@ -1,0 +1,15 @@
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_MarksLibrary\bin\Debug\net5.0\CSharp_DayThree_MarksLibrary.deps.json
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_MarksLibrary\bin\Debug\net5.0\CSharp_DayThree_MarksLibrary.dll
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_MarksLibrary\bin\Debug\net5.0\ref\CSharp_DayThree_MarksLibrary.dll
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_MarksLibrary\bin\Debug\net5.0\CSharp_DayThree_MarksLibrary.pdb
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_MarksLibrary\bin\Debug\net5.0\CSharp_DayThree_StudentLibrary.dll
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_MarksLibrary\bin\Debug\net5.0\CSharp_DayThree_StudentLibrary.pdb
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_MarksLibrary\obj\Debug\net5.0\CSharp_DayThree_MarksLibrary.csproj.AssemblyReference.cache
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_MarksLibrary\obj\Debug\net5.0\CSharp_DayThree_MarksLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_MarksLibrary\obj\Debug\net5.0\CSharp_DayThree_MarksLibrary.AssemblyInfoInputs.cache
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_MarksLibrary\obj\Debug\net5.0\CSharp_DayThree_MarksLibrary.AssemblyInfo.cs
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_MarksLibrary\obj\Debug\net5.0\CSharp_DayThree_MarksLibrary.csproj.CoreCompileInputs.cache
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_MarksLibrary\obj\Debug\net5.0\CSharp_DayThree_MarksLibrary.csproj.CopyComplete
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_MarksLibrary\obj\Debug\net5.0\CSharp_DayThree_MarksLibrary.dll
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_MarksLibrary\obj\Debug\net5.0\ref\CSharp_DayThree_MarksLibrary.dll
+C:\Dell-DotNet-PhaseOne-Projects\DemoCode Day three\DayThree-CsharpFundamental\CSharp_DayThree_MarksLibrary\obj\Debug\net5.0\CSharp_DayThree_MarksLibrary.pdb

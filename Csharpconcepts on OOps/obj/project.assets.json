@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dell-DotNet-PhaseOne-Projects\\DemoCode Day three\\DayThree-CsharpFundamental\\Csharpconcepts on OOps\\Csharpconcepts on OOps.csproj",
-      "projectName": "Csharpconcepts on OOps",
-      "projectPath": "C:\\Dell-DotNet-PhaseOne-Projects\\DemoCode Day three\\DayThree-CsharpFundamental\\Csharpconcepts on OOps\\Csharpconcepts on OOps.csproj",
+      "projectUniqueName": "C:\\Dell-DotNet-PhaseOne-Projects\\DemoCode Day three\\DayThree-CsharpFundamental\\Csharpconcepts on OOps\\Csharpconcepts constructors and class_object.csproj",
+      "projectName": "Csharpconcepts constructors and class_object",
+      "projectPath": "C:\\Dell-DotNet-PhaseOne-Projects\\DemoCode Day three\\DayThree-CsharpFundamental\\Csharpconcepts on OOps\\Csharpconcepts constructors and class_object.csproj",
       "packagesPath": "C:\\Users\\Madanika_K_R\\.nuget\\packages\\",
       "outputPath": "C:\\Dell-DotNet-PhaseOne-Projects\\DemoCode Day three\\DayThree-CsharpFundamental\\Csharpconcepts on OOps\\obj\\",
       "projectStyle": "PackageReference",
